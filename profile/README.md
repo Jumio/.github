@@ -5,18 +5,15 @@
 
 ## KYX (New Customers)
 
-What is KYX? Get more information [here](https://jumio.github.io/kyx/).
+KYX documentation is now available at [Jumio Documentation](https://docs.jumio.com/production/Content/Home.htm).
 
-- [KYX Implementation Guide](https://jumio.github.io/kyx/integration-guide.html)
-- [Web](https://jumio.github.io/kyx/integration-guide.html#web)
-- [API](https://jumio.github.io/kyx/integration-guide.html#api)
-- [Mobile SDKs (iOS/Android)](https://jumio.github.io/kyx/integration-guide.html#sdk)
+Example code and documentation for the Mobile SDKS are available at:
+- [iOS SDK](https://github.com/Jumio/mobile-sdk-ios).
+- [Android SDK](https://github.com/Jumio/mobile-sdk-android)
 - Cross Platform
   - [React Native](https://github.com/Jumio/mobile-react)
   - [Flutter](https://github.com/Jumio/mobile-flutter)
   - [Cordova](https://github.com/Jumio/mobile-cordova)
-- [Callback](https://jumio.github.io/kyx/integration-guide.html#callback)
-- [Retrieval API](https://jumio.github.io/kyx/integration-guide.html#retrieval)
 
 ## Classic Architecture (Existing Customers)
 - [Implementation guides](https://github.com/Jumio/implementation-guides)
@@ -31,10 +28,10 @@ What is KYX? Get more information [here](https://jumio.github.io/kyx/).
 - [Jumio Knowledge Base](https://support.jumio.com/hc/en-us)
 
 #### Support
-If you have any questions, please contact Jumio Customer Service at support@jumio.com. The [Jumio online helpdesk](https://support.jumio.com) contains a wealth of information regarding our services including demo videos, product descriptions, FAQs, and other resources that can help to get you started with Jumio.
+If you have any questions, please contact Jumio Support by opening a ticket in our [Support Portal](http://support.jumio.com/).
 
 ---
-&copy; Jumio Corporation, 395 Page Mill Road, Suite 150 Palo Alto, CA 94306
+&copy; Jumio Corporation, 100 Mathilda Place, Suite 160, Sunnyvale, CA 94086
 
 
 <!--
