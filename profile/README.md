@@ -16,9 +16,8 @@ Example code and documentation for the Mobile SDKS are available at:
   - [Cordova](https://github.com/Jumio/mobile-cordova)
 
 ## Classic Architecture (Existing Customers)
-- [Implementation guides](https://github.com/Jumio/implementation-guides)
-- [Callback](https://github.com/Jumio/implementation-guides/blob/master/netverify/callback.md)
-- [Retrieval API](https://github.com/Jumio/implementation-guides/blob/master/netverify/netverify-retrieval-api.md)
+- [Netverify Documentation](https://jumio.mcoutput.com/netverify/Content/Home.htm)
+- [KYX Legacy v3 Documentation](https://jumio.mcoutput.com/v3/Content/Home.htm)
 
 ---
 
